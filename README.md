@@ -1,6 +1,10 @@
 #Bickers en Backers
 
-A short demonstration of the family relations of Bickers en Backers, and the portraits that were made of them.
+Small demo app created during the Hacakalod 2018 to visualize the family relations of the 17th century Amsterdam families of Bickers and Backers and the portraits that were made of them.
+
+The portraits are fetched through the Sparql endpoint of AdamNet where data from several cultural institutions and museums is brought together and published as Linked Open Data (lod).
+
+Online demo: http://lab.adamlink.nl/bickers-en-backers/index.php 
 
 ## Installation
 
