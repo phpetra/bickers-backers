@@ -1,0 +1,87 @@
+{
+    "comment": "De Backers",
+    "nodes": [
+        {
+            "id": 0,
+            "name": "Willem Backer",
+            "years": "1595 - 1652",
+            "wiki": "Q2576720",
+            "role": "m",
+            "root": true
+        },
+        {
+            "id": 1,
+            "name": "Cornelis Backer jr",
+            "years": "1633 - 1681 ",
+            "wiki": "Q19243832",
+            "role": "m"
+        },
+        {
+            "id": 2,
+            "name": "Cornelis Backer sr",
+            "years": "?? - ?? ",
+            "wiki": "Q48317153",
+            "role": "m"
+        },
+        {
+            "id": 3,
+            "name": "Willem Syvertsz Backer",
+            "years": "1499 - 1536 ",
+            "wiki": "Q48087130",
+            "role": "m"
+        },
+        {
+            "id": 4,
+            "name": "Joris Backer",
+            "years": "?? - ?? ",
+            "wiki": "Q48316228",
+            "role": "m"
+        },
+        {
+            "id": 5,
+            "name": "Jacob Backer",
+            "years": "?? - ?? ",
+            "wiki": "",
+            "role": "m"
+        },
+        {
+            "id": 6,
+            "name": "Catrijn Backer",
+            "years": "?? - ?? ",
+            "wiki": "Q48314335",
+            "role": "f"
+        }
+    ],
+    "edges": [
+        {
+            "source": 0,
+            "target": 1,
+            "caption": "Vader van"
+        },
+        {
+            "source": 2,
+            "target": 0,
+            "caption": "Vader van"
+        },
+        {
+            "source": 3,
+            "target": 2,
+            "caption": "Vader van"
+        },
+        {
+            "source": 3,
+            "target": 4,
+            "caption": "Vader van"
+        },
+        {
+            "source": 3,
+            "target": 5,
+            "caption": "Vader van"
+        },
+        {
+            "source": 2,
+            "target": 6,
+            "caption": "Vader van"
+        }
+    ]
+}

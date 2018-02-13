@@ -1,0 +1,99 @@
+{
+    "comment": "De Bickers",
+    "nodes": [
+        {
+            "id": 0,
+            "name": "Andries Bicker",
+            "years": "1586 - 1652",
+            "wiki": "Q434290",
+            "role": "m",
+            "root": true
+        },
+        {
+            "id": 1,
+            "name": "Cornelis Bicker",
+            "years": "1592 - 1654",
+            "wiki": "Q1133500",
+            "role": "m"
+        },
+        {
+            "id": 2,
+            "name": "Gerard Bicker",
+            "years": "1554 - 1604",
+            "wiki": "Q1514743",
+            "role": "m"
+        },
+        {
+            "id": 3,
+            "name": "Gerard Bicker jr",
+            "years": "1622 - 1666",
+            "wiki": "Q17386802",
+            "role": "m"
+        },
+        {
+            "id": 4,
+            "name": "Jacob Bicker",
+            "years": "1588 - 1648",
+            "wiki": "Q2379213",
+            "role": "m"
+        },
+        {
+            "id": 5,
+            "name": "Jacob Bicker Jacobsz",
+            "years": "1612 - 1676",
+            "wiki": "Q2451824",
+            "role": "m"
+        },
+        {
+            "id": 6,
+            "name": "Jan Bicker",
+            "years": "1591 - 1653",
+            "wiki": "Q1238784",
+            "role": "m"
+        },
+        {
+            "id": 7,
+            "name": "Roelof Bicker",
+            "years": "1611 - 1656",
+            "wiki": "Q17386808",
+            "role": "m"
+        }
+    ],
+    "edges": [
+        {
+            "source": 0,
+            "target": 1,
+            "caption": "Broer van"
+        },
+        {
+            "source": 0,
+            "target": 2,
+            "caption": "Vader van"
+        },
+        {
+            "source": 0,
+            "target": 3,
+            "caption": "Zoon van"
+        },
+        {
+            "source": 0,
+            "target": 4,
+            "caption": "Broer van"
+        },
+        {
+            "source": 0,
+            "target": 5,
+            "caption": "Neef van"
+        },
+        {
+            "source": 0,
+            "target": 6,
+            "caption": "Broer van"
+        },
+        {
+            "source": 0,
+            "target": 7,
+            "caption": "Neef van"
+        }
+    ]
+}
