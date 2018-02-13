@@ -27,7 +27,7 @@ var persons = {
             $('#message').html('<p class="text-danger">Sorry, geen wiki link voor deze persoon.</p>');
         } else {
             $('#message').html('<p class="text-success">Portretten van ' + name + ' worden geladen....</p>');
-            loadImages('/api.php?uri=' + wiki, '#personPics');
+            loadImages('api.php?uri=' + wiki, '#personPics');
         }
     }
 };
