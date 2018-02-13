@@ -1,7 +1,7 @@
 // custom js
 
 var persons = {
-    dataSource: '/data/' + jsonFile,
+    dataSource: 'data/' + jsonFile,
     forceLocked: false,
     // graphWidth: function () {
     //     return 600;
