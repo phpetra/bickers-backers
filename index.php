@@ -18,8 +18,8 @@ $jsonFile = $family . '.json';
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css"
           integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 
-    <link href="/alchemy/styles/vendor.css" rel="stylesheet" type="text/css">
-    <link href="/alchemy/alchemy.css" rel="stylesheet" type="text/css">
+    <link href="alchemy/styles/vendor.css" rel="stylesheet" type="text/css">
+    <link href="alchemy/alchemy.css" rel="stylesheet" type="text/css">
 
     <style>
         html,
@@ -87,8 +87,8 @@ $jsonFile = $family . '.json';
 
 
 <!-- We need Alchemy for displaying -->
-<script src="/alchemy/scripts/vendor.js"></script>
-<script src="/alchemy/alchemy.js"></script>
+<script src="alchemy/scripts/vendor.js"></script>
+<script src="alchemy/alchemy.js"></script>
 
 <script>
     //$(document).ready(function () {
@@ -96,7 +96,7 @@ $jsonFile = $family . '.json';
     var loading = false;
     // });
 </script>
-<script src="/js/app.js"></script>
+<script src="js/app.js"></script>
 
 
 </body>
