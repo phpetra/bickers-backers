@@ -10,8 +10,8 @@ $wikiId = $_GET['uri'] ?? 'Q434290'; // Andries Bicker
 /** @var AdamLinkSparql $sparqler */
 $sparqler = new AdamLinkSparql();
 $data = [
-    'records' => $sparqler->getPortraitsForPersonIdentifiedByWikiIdWithoutSlowRijksmuseum($wikiId)
-    //'records' => $sparqler->getPortraitsForPersonIdentifiedByWikiId($wikiId)
+    //'records' => $sparqler->getPortraitsForPersonIdentifiedByWikiIdWithoutSlowRijksmuseum($wikiId)
+    'records' => $sparqler->getPortraitsForPersonIdentifiedByWikiId($wikiId)
 ];
 
 header('Content-Type: application/json');
